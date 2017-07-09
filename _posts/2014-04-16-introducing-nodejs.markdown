@@ -6,15 +6,11 @@ categories: main
 tags: ['NodeJS']
 ---
 
-# Introducing NodeJS
-***
-
-##Javascript
-Javascript is a dynamically typed scripting lanuguage which supports [functional][1], [imperative][2] programming paradigms. It is a multi-paradigm programming language
-
-## NodeJS
-
 NodeJS is a software platform to write standalone javascript applications popular for server-side. It uses Google’s V8 engine to execute the js code mainly designed for non-blocking I/O and asynchronous events. NodeJS applications run in single thread but all the I/O calls or network calls will be done in different threads which are managed by Node.
+
+Javascript is a dynamically typed scripting lanuguage which supports [functional][1], [imperative][2] programming paradigms. It is a multi-paradigm programming language.
+
+<!--more-->
 
 Few common concepts used in NodeJS which you will also come across in my posts.
 

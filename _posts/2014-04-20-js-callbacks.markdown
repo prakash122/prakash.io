@@ -6,14 +6,9 @@ categories: main
 tags: ['Javascript', 'Callbacks']
 ---
 
-# Javascript Callbacks
-***
-
-### What are callbacks
-
 From a wiki definition on [callbacks][1], a callback is a piece of executable code that is passed as an argument to other code, which is expected to call back (execute) the argument at some convenient time. 
 
-
+<!--more-->
 
 ### Javascript is Asynchronous language
 

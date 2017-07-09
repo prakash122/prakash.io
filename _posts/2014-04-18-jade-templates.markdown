@@ -6,14 +6,11 @@ categories: main
 tags: ['NodeJS', 'Jade']
 ---
 
-#Jade Templates
-***
-
 
 In the usage of creating jade I will create a login and register pages using bootstrap and a slight javascript to make the server post and get an ajax call. 
 
 
-####Layout.jade
+#### Layout.jade
       doctype html
       html
         head
@@ -26,7 +23,10 @@ In the usage of creating jade I will create a login and register pages using boo
         body
           block content
 
-####Login.jade
+
+<!--more-->
+
+#### Login.jade
 
 	extends ../layout
   
@@ -43,7 +43,7 @@ In the usage of creating jade I will create a login and register pages using boo
   
         button.btn.btn-default#submit-login(type="submit") Submit
 
-####Register.jade
+#### Register.jade
 
     extends ../layout
     

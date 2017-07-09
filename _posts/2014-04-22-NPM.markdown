@@ -6,11 +6,9 @@ categories: main
 tags: ['NPM']
 ---
 
-# NPM - Node Package Manager
-***
-
-
 NPM manages dependencies for a NodeJS applications. NPM gets installed with NodeJS when installing with an installer or you can install with a single line.
+
+<!--more-->
 
 	~$curl http://npmjs.org/install.sh | sh
 

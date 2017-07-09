@@ -6,10 +6,9 @@ categories: main
 tags: ['NodeJS', 'Roles']
 --- 
 
-# Role based access
-***
-
 This is a usual requirement in any web application. You would want your web application to handle different authorization levels like an administrator, power user, public user etc., 
+
+<!--more-->
 
 We will see how to implement the role based access with NodeJS Express framework.
 

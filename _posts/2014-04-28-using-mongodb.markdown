@@ -6,10 +6,9 @@ categories: main
 tags: ['MongoDB']
 --- 
 
-# Using MongoDB
-***
-
 As we have looked at MongoDB earlier about how to [setup][1] and start using the command line interface we shall now see how to use it with NodeJS.
+
+<!--more-->
 
 Connecting to Mongo 
 Mongoose

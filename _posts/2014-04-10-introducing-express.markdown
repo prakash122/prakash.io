@@ -6,10 +6,9 @@ categories: main
 tags: ['NodeJS', 'JS', 'ExpressJS']
 ---
 
-## Introducing ExpressJS
-***
-
 Express is a web application framework for NodeJS. It is a highly configurable feature-rich framework which does not restrict the project structure basing on architecture. There are lot more required libraries, [NodeFrameworks][1]
+
+<!--more-->
 
 The documentation of [ExpressJS][1] is highly informative. So, what I want to cover here is how to start off an express based application, understand the middlewares you are going to use.
 

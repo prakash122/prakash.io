@@ -14,9 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Prakash Tech Blog
+tagline: Logging Service of my Tech experiences
+
 email: mail@prakash.io
-description: > 
-  All my tech experiences are jotted down
+description: All my tech experiences are jotted down
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.prakash.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pkc122
@@ -27,6 +28,8 @@ markdown: kramdown
 theme: jekyll-theme-cayman
 gems:
   - jekyll-feed
+
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

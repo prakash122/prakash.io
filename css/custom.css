@@ -1,0 +1,13 @@
+a.post-title {
+	font-size: 1.5em;
+}
+
+span.post-date {
+	color: #bbb;
+	font-size: 0.8em;
+	margin-left: 10px;
+}
+
+ul.posts {
+	list-style-type: none;
+}

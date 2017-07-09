@@ -6,12 +6,10 @@ categories: main
 tags: ['NodeJS', 'JS', 'ExpressJS', 'Sessions']
 ---
 
-# Express Sessions
-***
-
-### What are sessions ?
 Let me explain this in plain words than the wiki type of definition. Let us take the client server communication as it is our current requirement, the awareness or identification of the client in the server every time the client calls the server with out necessarily signing in every time. 
 So when we elaborate the procedure, we have the following steps as that is how we are going to implement.
+
+<!--more-->
 
 * The client sending a signin request with its credentials
 * Server checks the credentials and if they are verified it will create a session, the session can be an in-memroy item or a db entry. We create a globally unique identifier for this entry

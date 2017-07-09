@@ -6,10 +6,10 @@ categories: main
 tags: ['MongoDB']
 ---
 
-# Setup MongoDB
-***
-
 MongoDB is the most popular NoSQL database available. You can install it from [MongoDB site][2] and the [guide][1] for installation is also provided. I strongly suggest you to spend atleast an hour in configuring the server in your respective platform.
+
+<!--more-->
+
 I am using a OSX platform so I am not dealing with Windows specific commands. But add the bin folder of the mongodb to the system path for the terminal to identify the mongo executables.
 
 After running the server with following command
